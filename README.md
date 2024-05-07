@@ -12,6 +12,8 @@
 
 ![velog](https://img.shields.io/badge/velog-00A95C?style=for-the-badge&logo=velog&logoColor=white) https://velog.io/@wmfrjqsp/posts
 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) https://www.notion.so/49e4bbc5059347f38e8a3706898536ed?pvs=4
+
 
 ## :wrench: Skill 
 
