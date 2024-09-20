@@ -3,7 +3,7 @@
 ## :smile: Introduction 
 
 안녕하세요! <br/>
-동료들이 함께 일하고 싶은<br/> 신입 백엔드 개발자 김예인 입니다.
+동료들이 함께 일하고 싶은<br/> 백엔드 개발자 김예인 입니다.
 
 ## :telephone_receiver: Contact 
 
